@@ -1,0 +1,2 @@
+Área del aprendizaje automático donde gracias a las redes neuronales artificiales obtenemos conocimiento de grandes volúmenes de datos. La inteligencia artifical nos permite simular destrezas humanas mediante algormitmos inteligentes. La Inteligencia Artificial va desde sistemas expertos hasta algoritmos que aprenden de los datos.
+
